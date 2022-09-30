@@ -12,7 +12,7 @@
     "build-prod": "parcel build src/index.html"
   },
   "dependencies": {
-    "d3": "^5.15.0"
+    "d3": "^7.6.1"
   },
   "devDependencies": {
     "@types/d3": "^5.7.2",
